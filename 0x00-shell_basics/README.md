@@ -1,1 +1,2 @@
-me
+echo me > README.md
+
