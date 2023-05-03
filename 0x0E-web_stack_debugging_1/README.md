@@ -1,1 +1,1 @@
-0x03. Shell, init files, variables and expansions
+0x0E-web_stack_debugging_1
